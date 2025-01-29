@@ -46,10 +46,10 @@
 - Pengujian dan Penjaminan Kualitas Perangkat Lunak
 - Technopreneurship
 
-  ## Semester 6
-  - Bahasa Asing (Jepang)
-  - Bahasa Inggris Dokumentasi Teknis
-  - Teknologi Big Data
-  - Visual Komputer Cerdas
-  - Kecerdasan Bisnis
-  - Proyek Pengembangan Perangkat Lunak
+## Semester 6
+- Bahasa Asing (Jepang)
+- Bahasa Inggris Dokumentasi Teknis
+- Teknologi Big Data
+- Visual Komputer Cerdas
+- Kecerdasan Bisnis
+- Proyek Pengembangan Perangkat Lunak
